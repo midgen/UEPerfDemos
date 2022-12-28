@@ -4,3 +4,5 @@
 
 #include "CoreMinimal.h"
 
+DECLARE_STATS_GROUP(TEXT("PerfDemo"), STATGROUP_PerfDemo, STATCAT_Advanced);
+

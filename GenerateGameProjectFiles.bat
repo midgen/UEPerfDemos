@@ -1,0 +1,1 @@
+dotnet "d:\games\UE_5.1\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/dev/repos/UEPerfDemos/UEPerfDemos.uproject" -game -rocket -progress
